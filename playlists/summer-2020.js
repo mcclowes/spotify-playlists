@@ -1,4 +1,4 @@
-[
+export const playlist = [
   {
     "index": 1,
     "name": "Jesus Christ 2005 God Bless America",
